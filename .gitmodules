@@ -1,6 +1,8 @@
 [submodule "text-generation-webui"]
 	path = text-generation-webui
 	url = https://github.com/greatzane/text-generation-webui.git
+	branch = character_lab
 [submodule "Langchain-Chatchat"]
 	path = Langchain-Chatchat
 	url = https://github.com/greatzane/Langchain-Chatchat.git
+	branch = character_lab
